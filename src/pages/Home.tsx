@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { Brain, Zap, Target, Users, ArrowRight } from 'lucide-react'
+import { Brain, Target, Users, ArrowRight } from 'lucide-react'
 
 const Home = () => {
   return (
@@ -73,3 +73,4 @@ const Home = () => {
 }
 
 export default Home
+
